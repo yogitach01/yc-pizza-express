@@ -1,9 +1,10 @@
 # YC-pizza-express
 
-**YC-pizza express is a Template for pizza shop which is Complete Multipage React Website **
+** YC-pizza express is a Template for pizza shop which is Complete Multipage React Website **
 
 ### Hosted on : https://yc-pizza-express.netlify.app/
-![Screenshot (972)_2](https://user-images.githubusercontent.com/80738479/131246152-4e8d0309-26c2-4f7c-addc-b0216b5c6630.png)
+![WhatsApp Image 2021-09-30 at 1 45 21 PM](https://user-images.githubusercontent.com/80738479/135414457-17745249-4c79-4b0e-b349-28e147a7be7b.jpeg)
+
 
 
 
